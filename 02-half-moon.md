@@ -82,8 +82,8 @@ Come up<span style="color:blue"><b>*</b></span> and stop in the middle.
 [HANDS TO FEET]   
   
 {: .timing}
->Side bend XX seconds. Recommended: 30-40 then 20-30 seconds.  
->Back bend XX seconds. Recommended: 20-45 seconds.
+>Side bend ~35 seconds. Recommended: 30-40 then 20-30 seconds.  
+>Back bend ~40 seconds. Recommended: 20-45 seconds.
   
 {: .commentary}
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex  
