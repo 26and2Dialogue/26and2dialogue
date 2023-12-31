@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 26 & 2 Dialogue
+description: An experiment with a new standard dialogue for teaching 26 & 2 Yoga also known as Bikram Yoga.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+logo: "assets/images/bc-awkward.png"
+search_enabled: false;
+
+url: https://26and2dialogue.com
+
+# color_scheme: dark
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
