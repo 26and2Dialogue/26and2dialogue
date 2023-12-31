@@ -12,4 +12,62 @@ url: https://26and2dialogue.com
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+# Callouts
+# 
+# The title of a callout is optional. It is rendered in uppercase.
+# 
+# Each kind of callout has a color, used for the callout bar, the title, and the background.
+# Predefined colors: grey-lt, grey-dk, purple, blue, green, yellow, red.
+# If you use another color, you should define its levels (000, 100, 200, 300) in _sass/custom/custom.scss.
+#
+# The default is for callout backgrounds to have a lower color level than the bars and titles.
+# The value of `callouts_level` is either `quiet` or `loud`:
+# `loud` increases the saturation and lightness of the backgrounds.
+# The default for `callouts_level` is `quiet` when using the `light` or custom color schemes,
+# and `loud` when using the `dark` color scheme.
 
+# callouts_opacity: 0.15
+# callouts_level: loud
+
+callouts:
+  admonition:
+    title: Admonition
+    color: grey-lt
+  attention:
+    title: Attention
+    color: purple
+  caution:
+    title: Caution
+    color: yellow
+  commentary:
+    title: Commentary
+    color: red
+    opacity: 0.2
+  danger:
+    title: Danger
+    color: red
+  error:
+    title: Error
+    color: red
+  highlight:
+    color: yellow
+    opacity: 0.5
+  hint:
+    title: Hint
+    color: grey-dk
+  important:
+    title: Important
+    color: green
+  note:
+    title: Note
+    color: blue
+  timing:
+    title: Timing
+    color: blue
+    opacity: 0.4
+  tip:
+    title: Tip
+    color: grey-dk
+  warning:
+    title: Warning
+    color: red
