@@ -1,6 +1,6 @@
 .side-bar .site-header-26and2dialogue {
     display: flex;
-    min-height: $sidebar-header-height;
+    min-height: 200px;
     align-items: center;
   
     @include mq(md) {
