@@ -1,5 +1,5 @@
 ---
-title: CHANGELOG
+title: CODE OF CONDUCT
 layout: default
 nav_order: 33
 ---
