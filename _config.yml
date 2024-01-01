@@ -44,7 +44,7 @@ callouts:
     color: yellow
   commentary:
     title: Commentary
-    color: red
+    color: pink
     opacity: 0.2
   danger:
     title: Danger
