@@ -4,13 +4,13 @@ layout: default
 nav_order: 1
 ---
 
-# Focus on writing good documentation
+# A new dialogue for teaching 26 & 2 Hot Yoga / Bikram Yoga
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+This is an experiment in proposing a dialogue and getting feedback from teachers and students around the world.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Download it Now](26and2dialogue.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
