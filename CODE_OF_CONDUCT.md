@@ -1,3 +1,9 @@
+---
+title: CHANGELOG
+layout: default
+nav_order: 33
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
