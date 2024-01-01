@@ -10,6 +10,9 @@ nav_order: 1
 This is an experiment in proposing a dialogue and getting feedback from teachers and students around the world.
 {: .fs-6 .fw-300 }
 
+{: .warning }
+> This web site should not be showing up on search engines. At this stage it is only a temporary proof of concept for team members to share. There are potential copyright issues with some of the dialogue here. Do not disseminate this link.
+
 [Download it Now](26and2dialogue.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][26&2 Dialogue repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
