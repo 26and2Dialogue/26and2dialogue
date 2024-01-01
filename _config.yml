@@ -12,6 +12,9 @@ url: https://26and2dialogue.com
 aux_links:
   Discuss 26 & 2 Dialogue: discuss
 
+footer_content: "<a rel=\"license\" title=\"This page is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img src=\"assets/images/cc-by-sa.svg\" style=\"display:inline;\" alt=\"Creative Commons License\"></a> &nbsp;Copyright &copy; 2024 26&2 Dialogue and contributors."
+
+
 # Callouts
 # 
 # The title of a callout is optional. It is rendered in uppercase.
