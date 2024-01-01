@@ -15,7 +15,7 @@ This is an experiment in proposing a dialogue and getting feedback from teachers
 
 ---
 
-{: .warning }
+{: .note }
 > This website documents the features of the current `main` branch of the 26 & 2 Dialogue. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Nulla pellentesque dignissim enim sit amet venenatis urna. Quis hendrerit dolor magna eget est lorem ipsum dolor. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Ullamcorper velit sed ullamcorper morbi. Lectus nulla at volutpat diam ut venenatis tellus.  
@@ -33,7 +33,7 @@ Praesent elementum facilisis leo vel fringilla est ullamcorper eget nulla. Morbi
 Ultricies tristique nulla aliquet enim tortor at. Id leo in vitae turpis massa sed elementum. Sed odio morbi quis commodo odio aenean. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Egestas dui id ornare arcu odio ut sem. Consequat semper viverra nam libero justo. Mi bibendum neque egestas congue quisque egestas diam. Id donec ultrices tincidunt arcu non sodales. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin.  
   
 {: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.Vitae congue mauris rhoncus aenean vel elit scelerisque. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Phasellus faucibus scelerisque eleifend donec pretium.  
+Vitae congue mauris rhoncus aenean vel elit scelerisque. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Phasellus faucibus scelerisque eleifend donec pretium.  
   
 ### Contributing
 
