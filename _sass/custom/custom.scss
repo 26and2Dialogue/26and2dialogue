@@ -1,0 +1,11 @@
+.side-bar .site-header-26and2dialogue {
+    display: flex;
+    min-height: $sidebar-header-height;
+    align-items: center;
+  
+    @include mq(md) {
+      height: 200px;
+      max-height: 200px;
+      border-bottom: $border $border-color;
+    }
+  }
