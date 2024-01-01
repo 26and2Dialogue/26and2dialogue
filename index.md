@@ -33,16 +33,8 @@ Praesent elementum facilisis leo vel fringilla est ullamcorper eget nulla. Morbi
 Ultricies tristique nulla aliquet enim tortor at. Id leo in vitae turpis massa sed elementum. Sed odio morbi quis commodo odio aenean. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Egestas dui id ornare arcu odio ut sem. Consequat semper viverra nam libero justo. Mi bibendum neque egestas congue quisque egestas diam. Id donec ultrices tincidunt arcu non sodales. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin.  
   
 {: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
+See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.Vitae congue mauris rhoncus aenean vel elit scelerisque. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Phasellus faucibus scelerisque eleifend donec pretium.  
+  
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
@@ -65,8 +57,5 @@ Just the Docs is committed to fostering a welcoming community.
 [View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
 
 ----
-
-[^1]: The [source file for this page] uses all three markup languages.
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [26&2 Dialogue repo]: https://github.com/26and2dialogue/26and2dialogue  
